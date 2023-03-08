@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="hawaii_5_0_wave">hawaii_5_0_wave</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="rewind">Rewind</string>
+</resources>
